@@ -3,13 +3,36 @@
 
 ---
 
+## Enterprise Scope & Accountability
+
+- 19-year executive trajectory within a Fortune 50 global enterprise  
+- Global platform accountability across multiple regions  
+- Leadership of 50+ internal and strategic vendor resources  
+- Operational governance of global cloud and analytics platforms representing ~$300M in annual technology & resource spend  
+- Delivered $350M+ cumulative enterprise value through modernization, automation, and AI transformation initiatives  
+
+---
+
+## Strategic Leadership Capabilities
+
+- Enterprise Engineering & AI Platform Strategy  
+- Operating Model & Governance Design  
+- Cloud & DevOps Modernization at Scale  
+- Reliability Engineering & Production Risk Management  
+- Executive Stakeholder Alignment & Portfolio Prioritization  
+- Global Team Leadership & Organizational Scaling  
+
+---
+
 ## Executive Profile
 
-Senior IT executive leader with 15+ years driving enterprise-scale AI, automation, DevOps, and platform modernization across multinational environments.
+Enterprise technology executive specializing in large-scale platform modernization, AI enablement, and operational transformation across complex multinational environments.
 
-I operate at the intersection of **AI governance, capital allocation discipline, and institutional risk exposure**, ensuring technology transformation translates into measurable enterprise value — not experimentation.
+Lead globally distributed engineering and operations organizations accountable for secure, resilient, and scalable cloud and data ecosystems supporting finance, supply chain, and enterprise decision platforms. Integrate automation, machine learning, and generative AI into disciplined operating models that balance innovation with governance, cost control, and production reliability.
 
-This repository consolidates selected executive frameworks, strategic positioning artifacts, and governance models that reflect my approach to enterprise AI leadership.
+Experienced in prioritizing enterprise technology investments across competing initiatives, strengthening executive transparency, mitigating operational risk exposure, and designing governance frameworks that endure scale, audit scrutiny, and leadership transition.
+
+Modernization is not a tooling exercise; it is an institutional design challenge. Focused on building durable engineering organizations, reinforcing accountability structures, and aligning talent, architecture, and financial discipline to create sustainable enterprise advantage.
 
 ---
 
